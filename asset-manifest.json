@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.e3b6cc54.css",
-    "main.js": "/home/static/js/main.d62c38a5.js",
-    "static/media/predators-1.jpg": "/home/static/media/predators-1.98b48615e584e2b0b107.jpg",
-    "static/media/predators5.webp": "/home/static/media/predators5.8f6af39154e072255f47.webp",
-    "static/media/predators4.webp": "/home/static/media/predators4.8bc3314e3bfccb367843.webp",
-    "static/media/predators2.webp": "/home/static/media/predators2.3202936d8169fb68e34e.webp",
-    "static/media/predators6.webp": "/home/static/media/predators6.0e04eb4d37cf251d5398.webp",
-    "static/media/predators3.jpg": "/home/static/media/predators3.c223093255751a037375.jpg",
-    "static/media/cheetah.jpg": "/home/static/media/cheetah.a9c9dc124d24c2d70a95.jpg",
-    "static/media/tiger.webp": "/home/static/media/tiger.9bc185f99aba990e2a95.webp",
-    "static/media/lion.jpg": "/home/static/media/lion.73e7daf9772bb51c6262.jpg",
-    "static/media/pawgif.gif": "/home/static/media/pawgif.6cc00ad9aa0dabe305e7.gif",
-    "index.html": "/home/index.html",
-    "main.e3b6cc54.css.map": "/home/static/css/main.e3b6cc54.css.map",
-    "main.d62c38a5.js.map": "/home/static/js/main.d62c38a5.js.map"
+    "main.css": "/react-animals/static/css/main.e3b6cc54.css",
+    "main.js": "/react-animals/static/js/main.0b96d705.js",
+    "static/media/predators-1.jpg": "/react-animals/static/media/predators-1.98b48615e584e2b0b107.jpg",
+    "static/media/predators5.webp": "/react-animals/static/media/predators5.8f6af39154e072255f47.webp",
+    "static/media/predators4.webp": "/react-animals/static/media/predators4.8bc3314e3bfccb367843.webp",
+    "static/media/predators2.webp": "/react-animals/static/media/predators2.3202936d8169fb68e34e.webp",
+    "static/media/predators6.webp": "/react-animals/static/media/predators6.0e04eb4d37cf251d5398.webp",
+    "static/media/predators3.jpg": "/react-animals/static/media/predators3.c223093255751a037375.jpg",
+    "static/media/cheetah.jpg": "/react-animals/static/media/cheetah.a9c9dc124d24c2d70a95.jpg",
+    "static/media/tiger.webp": "/react-animals/static/media/tiger.9bc185f99aba990e2a95.webp",
+    "static/media/lion.jpg": "/react-animals/static/media/lion.73e7daf9772bb51c6262.jpg",
+    "static/media/pawgif.gif": "/react-animals/static/media/pawgif.6cc00ad9aa0dabe305e7.gif",
+    "index.html": "/react-animals/index.html",
+    "main.e3b6cc54.css.map": "/react-animals/static/css/main.e3b6cc54.css.map",
+    "main.0b96d705.js.map": "/react-animals/static/js/main.0b96d705.js.map"
   },
   "entrypoints": [
     "static/css/main.e3b6cc54.css",
-    "static/js/main.d62c38a5.js"
+    "static/js/main.0b96d705.js"
   ]
 }
