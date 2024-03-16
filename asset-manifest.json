@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/react-animals/static/css/main.e3b6cc54.css",
-    "main.js": "/react-animals/static/js/main.7c2f76d8.js",
+    "main.css": "/react-animals/static/css/main.4c6edbf8.css",
+    "main.js": "/react-animals/static/js/main.29bba8c2.js",
+    "static/media/honeyBadger.jpeg": "/react-animals/static/media/honeyBadger.0b2acab9da022b74b0e8.jpeg",
     "static/media/predators-1.jpg": "/react-animals/static/media/predators-1.98b48615e584e2b0b107.jpg",
     "static/media/predators5.webp": "/react-animals/static/media/predators5.8f6af39154e072255f47.webp",
     "static/media/predators4.webp": "/react-animals/static/media/predators4.8bc3314e3bfccb367843.webp",
     "static/media/predators2.webp": "/react-animals/static/media/predators2.3202936d8169fb68e34e.webp",
     "static/media/predators6.webp": "/react-animals/static/media/predators6.0e04eb4d37cf251d5398.webp",
+    "static/media/wilddog.jpg": "/react-animals/static/media/wilddog.0dda389e0b0fce8020e2.jpg",
     "static/media/predators3.jpg": "/react-animals/static/media/predators3.c223093255751a037375.jpg",
     "static/media/cheetah.jpg": "/react-animals/static/media/cheetah.a9c9dc124d24c2d70a95.jpg",
     "static/media/tiger.webp": "/react-animals/static/media/tiger.9bc185f99aba990e2a95.webp",
+    "static/media/jackal.jpg": "/react-animals/static/media/jackal.b86bbd657a2efd6e9f8c.jpg",
+    "static/media/leopard.jpg": "/react-animals/static/media/leopard.f27d3080a8aa69362d96.jpg",
+    "static/media/hyena.jpg": "/react-animals/static/media/hyena.32bde6125a4ffe82a410.jpg",
     "static/media/lion.jpg": "/react-animals/static/media/lion.73e7daf9772bb51c6262.jpg",
+    "static/media/capefox.jpg": "/react-animals/static/media/capefox.eeaa383de0aa5b82a204.jpg",
     "static/media/pawgif.gif": "/react-animals/static/media/pawgif.6cc00ad9aa0dabe305e7.gif",
+    "static/media/serval.avif": "/react-animals/static/media/serval.28b7c30503fb1fe2b195.avif",
     "index.html": "/react-animals/index.html",
-    "main.e3b6cc54.css.map": "/react-animals/static/css/main.e3b6cc54.css.map",
-    "main.7c2f76d8.js.map": "/react-animals/static/js/main.7c2f76d8.js.map"
+    "main.4c6edbf8.css.map": "/react-animals/static/css/main.4c6edbf8.css.map",
+    "main.29bba8c2.js.map": "/react-animals/static/js/main.29bba8c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3b6cc54.css",
-    "static/js/main.7c2f76d8.js"
+    "static/css/main.4c6edbf8.css",
+    "static/js/main.29bba8c2.js"
   ]
 }
